@@ -1,0 +1,408 @@
+[INFO ] 2017-11-21 09:49:05,561 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:49:05,565 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:49:09,729 com.webtest.util.Log - Opened url http://10.7.10.7/
+[INFO ] 2017-11-21 09:49:09,822 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='sidebar']/html/body/header/nav/div/div[2]/ul/li[7]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.kXKpTr4BruOY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10100, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c1f9836c-ff30-44e6-b3f7-edfcf35a8c8d
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/html/body/header/nav/div/div[2]/ul/li[7]/a}
+[INFO ] 2017-11-21 09:49:09,840 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.kXKpTr4BruOY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10100, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c1f9836c-ff30-44e6-b3f7-edfcf35a8c8d
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 09:49:09,851 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.kXKpTr4BruOY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10100, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c1f9836c-ff30-44e6-b3f7-edfcf35a8c8d
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:49:09,861 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.kXKpTr4BruOY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10100, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c1f9836c-ff30-44e6-b3f7-edfcf35a8c8d
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 09:49:13,910 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 09:52:57,018 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:52:57,022 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:53:01,820 com.webtest.util.Log - Opened url http://10.7.10.7/
+[INFO ] 2017-11-21 09:53:01,877 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression ".//*[@id='sidebar']html/body/header/nav/div/div[2]/ul/li[7]/a" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.V9bljgB5dm9z, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d5f15836-7c48-4fc1-a35a-c90a576179d7
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']html/body/header/nav/div/div[2]/ul/li[7]/a}
+[INFO ] 2017-11-21 09:53:01,895 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.V9bljgB5dm9z, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d5f15836-7c48-4fc1-a35a-c90a576179d7
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 09:53:01,908 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.V9bljgB5dm9z, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d5f15836-7c48-4fc1-a35a-c90a576179d7
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:53:01,917 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.V9bljgB5dm9z, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15776, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d5f15836-7c48-4fc1-a35a-c90a576179d7
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 09:53:05,779 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 09:55:30,572 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:55:30,576 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:55:34,896 com.webtest.util.Log - Opened url http://10.7.10.7/accounts/login/
+[INFO ] 2017-11-21 09:55:45,040 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 09:57:00,927 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:57:00,931 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:57:05,504 com.webtest.util.Log - Opened url http://10.7.10.7
+[INFO ] 2017-11-21 09:57:05,566 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression ".//*[@id='sidebar']html/body/header/nav/div/div[2]/ul/li[7]/a" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.zKdzt1aEKtNt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13376, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 41e9ab13-c290-4fd0-9392-baf1c0765ef4
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']html/body/header/nav/div/div[2]/ul/li[7]/a}
+[INFO ] 2017-11-21 09:57:05,598 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.zKdzt1aEKtNt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13376, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 41e9ab13-c290-4fd0-9392-baf1c0765ef4
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 09:57:05,611 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.zKdzt1aEKtNt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13376, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 41e9ab13-c290-4fd0-9392-baf1c0765ef4
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:57:05,645 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.zKdzt1aEKtNt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13376, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 41e9ab13-c290-4fd0-9392-baf1c0765ef4
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 09:57:09,409 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 09:58:31,805 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 09:58:31,809 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 09:58:37,192 com.webtest.util.Log - Opened url http://10.7.10.7
+[INFO ] 2017-11-21 09:58:37,259 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='sidebar']/div/div[2]/ul/li[7]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.1SBk5AEaKpDb, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8160, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 9555db98-ea24-4066-ab2a-2c87e3ffff97
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/div/div[2]/ul/li[7]/a}
+[INFO ] 2017-11-21 09:58:37,278 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.1SBk5AEaKpDb, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8160, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 9555db98-ea24-4066-ab2a-2c87e3ffff97
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 09:58:37,292 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='password']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.1SBk5AEaKpDb, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8160, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 9555db98-ea24-4066-ab2a-2c87e3ffff97
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-11-21 09:58:37,304 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.1SBk5AEaKpDb, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8160, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 9555db98-ea24-4066-ab2a-2c87e3ffff97
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 09:58:41,402 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 10:11:56,633 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 10:11:56,637 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 10:12:00,778 com.webtest.util.Log - Opened url http://10.7.10.7/accounts/login/
+[INFO ] 2017-11-21 10:12:31,919 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 15:41:35,763 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 15:41:35,817 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 15:41:39,237 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 15:41:39,297 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.H3mKWEhOUUbB, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13988, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: bc425d99-e0aa-406f-8b5f-4462726ff535
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 15:41:39,381 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.H3mKWEhOUUbB, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13988, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: bc425d99-e0aa-406f-8b5f-4462726ff535
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 15:41:43,158 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 15:42:50,466 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 15:42:50,471 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 15:42:53,867 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 15:42:53,920 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.4Qky8p1zMa0G, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14512, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 3e81576c-841b-437c-a5ee-2cc050a27d07
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 15:42:54,004 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.4Qky8p1zMa0G, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14512, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 3e81576c-841b-437c-a5ee-2cc050a27d07
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 15:42:57,769 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 15:44:21,572 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 15:44:21,576 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 15:44:24,976 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 15:44:25,029 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.ZiOb1wTIHR62, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11860, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c3d59a86-a681-4978-8826-5a1817c8d8df
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 15:44:25,104 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.ZiOb1wTIHR62, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11860, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c3d59a86-a681-4978-8826-5a1817c8d8df
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 15:44:28,915 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 15:46:08,142 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 15:46:08,165 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 15:46:14,603 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 15:46:14,667 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.2Cjor74nTIEp, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=19116, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: dfddc3a4-7280-47a1-ac18-ec5fbc23a7e0
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 15:46:14,757 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.2Cjor74nTIEp, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=19116, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: dfddc3a4-7280-47a1-ac18-ec5fbc23a7e0
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 15:46:18,600 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 15:48:12,027 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 15:48:12,031 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 15:48:20,435 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 15:48:20,491 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.iHuJdNHmS4gv, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17312, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 2d9fae76-62d1-49fb-8e74-73aa101447a8
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-11-21 15:48:20,573 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.iHuJdNHmS4gv, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17312, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 2d9fae76-62d1-49fb-8e74-73aa101447a8
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 15:48:26,315 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 15:50:05,408 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 15:50:05,413 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 15:50:13,852 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 15:50:14,024 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.b3nVguKS51gG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2404, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 981c9deb-d0c3-40d4-b78d-9f80a7cf0f69
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 15:50:19,814 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 15:53:00,406 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 15:53:00,410 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 15:53:08,911 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 15:53:09,053 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.h6dax1ROUv8W, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11020, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c9aded8f-6e6c-4c08-a12d-e2b97d2fe974
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 15:53:14,888 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 15:57:54,069 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 15:57:54,102 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 15:58:02,542 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 15:58:02,750 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@type='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.o5xNvEqv0LfW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14956, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 1624882d-e06a-4080-829d-d04761aac129
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-11-21 15:58:08,512 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 16:02:53,854 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 16:02:53,858 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 16:03:00,285 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 16:03:08,533 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-21 16:06:38,661 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 16:06:38,665 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 16:06:45,108 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-21 16:06:53,090 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-22 08:38:59,647 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-22 08:38:59,651 com.webtest.util.Log - firefox
+[INFO ] 2017-11-22 08:39:06,100 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-22 08:39:38,655 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-22 08:44:13,114 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-22 08:44:13,120 com.webtest.util.Log - firefox
+[INFO ] 2017-11-22 08:44:19,506 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-22 08:45:14,414 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-22 09:02:44,529 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-22 09:02:44,533 com.webtest.util.Log - firefox
+[INFO ] 2017-11-22 09:02:51,172 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-22 09:03:31,674 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-22 10:13:35,933 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-22 10:13:35,937 com.webtest.util.Log - firefox
+[INFO ] 2017-11-22 10:13:42,358 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-22 10:14:07,240 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='工作中']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.0TPlpO3lp89p, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6208, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 3dfc4409-310f-4a27-90b6-cca66c1f41a9
+*** Element info: {Using=xpath, value=//input[@value='工作中']}
+[INFO ] 2017-11-22 10:14:07,260 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='普通员工']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.0TPlpO3lp89p, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6208, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 3dfc4409-310f-4a27-90b6-cca66c1f41a9
+*** Element info: {Using=xpath, value=//input[@value='普通员工']}
+[INFO ] 2017-11-22 10:14:15,119 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-22 10:15:28,514 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-22 10:15:28,517 com.webtest.util.Log - firefox
+[INFO ] 2017-11-22 10:15:34,901 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-22 10:15:59,025 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='工作中']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.4Zf80F2lh97j, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18156, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 2e8b2cab-0c79-4388-93a2-eb9a994c60c3
+*** Element info: {Using=xpath, value=//input[@value='工作中']}
+[INFO ] 2017-11-22 10:15:59,042 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='普通员工']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.4Zf80F2lh97j, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18156, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 2e8b2cab-0c79-4388-93a2-eb9a994c60c3
+*** Element info: {Using=xpath, value=//input[@value='普通员工']}
+[INFO ] 2017-11-22 10:16:06,462 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-22 10:21:12,065 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-22 10:21:12,068 com.webtest.util.Log - firefox
+[INFO ] 2017-11-22 10:21:18,528 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-22 10:21:43,117 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='工作中']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.qapu9WAJfNFs, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=16268, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5ce7c448-c89d-43eb-bb1c-82c26aaca4b9
+*** Element info: {Using=xpath, value=//input[@value='工作中']}
+[INFO ] 2017-11-22 10:21:43,139 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='普通员工']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.qapu9WAJfNFs, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=16268, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5ce7c448-c89d-43eb-bb1c-82c26aaca4b9
+*** Element info: {Using=xpath, value=//input[@value='普通员工']}
+[INFO ] 2017-11-22 10:21:50,276 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-22 11:09:29,320 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-22 11:09:29,323 com.webtest.util.Log - firefox
+[INFO ] 2017-11-22 11:09:35,818 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-22 11:09:47,292 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-22 14:21:11,689 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-22 14:21:11,693 com.webtest.util.Log - firefox
+[INFO ] 2017-11-22 14:21:18,129 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-22 14:21:39,515 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='黑色']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.RbPezY65L9op, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12488, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b25d920c-6e55-404c-aa77-adb056babd56
+*** Element info: {Using=xpath, value=//input[@value='黑色']}
+[INFO ] 2017-11-22 14:21:39,536 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='S']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.RbPezY65L9op, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12488, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b25d920c-6e55-404c-aa77-adb056babd56
+*** Element info: {Using=xpath, value=//input[@value='S']}
+[INFO ] 2017-11-22 14:21:39,556 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='price']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.RbPezY65L9op, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12488, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b25d920c-6e55-404c-aa77-adb056babd56
+*** Element info: {Using=name, value=price}
+[INFO ] 2017-11-22 14:21:39,565 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='num']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.RbPezY65L9op, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12488, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b25d920c-6e55-404c-aa77-adb056babd56
+*** Element info: {Using=name, value=num}
+[INFO ] 2017-11-22 14:21:40,527 com.webtest.util.Log - Quitted Browser
