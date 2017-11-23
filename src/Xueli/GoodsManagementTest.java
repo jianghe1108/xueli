@@ -20,13 +20,13 @@ public class GoodsManagementTest extends BaseTest{
 	@Test
     public void testBackLogin() throws InterruptedException {
     	BackLogin add=new BackLogin(webtest);
-    	Thread.sleep(3000);
+    	Thread.sleep(2000);
     	add.inputValues("admin", "admin");
-    	Thread.sleep(3000);
+    	Thread.sleep(2000);
     }
 	 @Test(dependsOnMethods="testBackLogin")
 	public void goodsM() throws InterruptedException { 
 	    GoodsManagement goodsM=new GoodsManagement(webtest);
-	    goodsM.inputValues("毛衣", "针织衫",null, "49.9", "30.9", "黑色", "S", "49.9", "49", "C:\\Users\\acer\\Pictures\\lovewallpaper\\1.jpg","商品描述","进仓库","推销","热销","submit");
+	    goodsM.inputValues("毛衣", "----针织衫",null, "49.9", "30.9", "黑色", "S", "49.9", "49", "C:\\Users\\acer\\Pictures\\lovewallpaper\\1.jpg","商品描述","进仓库","推销","热销","submit");
 	 }
 }	   

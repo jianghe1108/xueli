@@ -166,14 +166,24 @@ public class GoodsManagement extends BaseTest{
 		//点击添加商品
 		webtest.click("xpath=.//*[@id='main-container']/div/div[2]/div[2]/div[1]/h1/a");
 		webtest.type("name=name",name);
-		webtest.type("name=type_id",type_id);
+		Thread.sleep(3000);
+	//	webtest.type("name=type_id",type_id);
+		webtest.selectByValue("name=type_id",type_id);
+		Thread.sleep(3000);
 		webtest.type("name=brand_id",brand_id);
+		Thread.sleep(3000);
 		webtest.type("name=saleprice",saleprice);
+		Thread.sleep(3000);
 		webtest.type("name=costprice",costprice);
+		Thread.sleep(3000);
 		webtest.click("xpath=//input[@value='"+colors+"']");
+		Thread.sleep(3000);
 		webtest.click("xpath=//input[@value='"+sizes+"']");
+		Thread.sleep(3000);
 		webtest.type("name=price",price);
+		Thread.sleep(3000);
 		webtest.type("name=num",num);
+		Thread.sleep(3000);
 		webtest.type("name=pic",pic);
 		WebDriver wd = null;
 		Actions action=new Actions(wd);

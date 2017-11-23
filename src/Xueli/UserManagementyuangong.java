@@ -3,7 +3,7 @@ package Xueli;
 import com.webtest.core.BaseTest;
 import com.webtest.core.WebDriverEngine;
 
-public class UserManagement extends BaseTest{
+public class UserManagementyuangong extends BaseTest{
 	public WebDriverEngine webtest;
     public String name;
     public String password;
@@ -110,7 +110,7 @@ public class UserManagement extends BaseTest{
 	public void setButton(String button) {
 		this.button = button;
 	}
-	public UserManagement(WebDriverEngine webtest) {
+	public UserManagementyuangong(WebDriverEngine webtest) {
 		this.webtest = webtest;
 		
     }
