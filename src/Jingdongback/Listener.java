@@ -1,4 +1,4 @@
-package Xueli;
+package Jingdongback;
 
 import org.testng.ITestContext;
 import org.testng.ITestResult;

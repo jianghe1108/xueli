@@ -1,4 +1,4 @@
-package Xueli;
+package Jingdongback;
 
 import org.testng.ITestContext;
 import org.testng.TestRunner;
@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 import com.webtest.core.BaseTest;
 
-public class GoodsManagementTest extends BaseTest{
+public class UMaddhuiyuanTest extends BaseTest{
 	@BeforeSuite
 	public void addListener(ITestContext context)throws Exception {
 	    TestRunner runner = (TestRunner) context;
@@ -25,8 +25,12 @@ public class GoodsManagementTest extends BaseTest{
     	Thread.sleep(2000);
     }
 	 @Test(dependsOnMethods="testBackLogin")
-	public void goodsM() throws InterruptedException { 
-	    GoodsManagement goodsM=new GoodsManagement(webtest);
-	    goodsM.inputValues("毛衣", "----针织衫",null, "49.9", "30.9", "黑色", "S", "49.9", "49", "C:\\Users\\acer\\Pictures\\lovewallpaper\\1.jpg","商品描述","进仓库","推销","热销","submit");
+	public void userH() throws InterruptedException { 
+	    UserManagementhuiyuan userH=new UserManagementhuiyuan(webtest);
+	    for(int i=1;i<=10;i++){
+	 	userH.inputValues("admin"+i, "nicheng"+i, "password"+i, "password"+i,"163961941"+i+"@qq.com","1573217652"+i,"2017","11","8","女");
+	   	Thread.sleep(3000);
+	   	}
 	 }
-}	   
+	   
+}

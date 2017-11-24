@@ -1,4 +1,4 @@
-package Xueli;
+package Jingdongback;
 
 import java.util.Properties;
 import javax.mail.Message;

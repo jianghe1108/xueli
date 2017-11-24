@@ -1,4 +1,4 @@
-package Xueli;
+package Jingdongback;
 
 import org.testng.ITestContext;
 import org.testng.TestRunner;
@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 import com.webtest.core.BaseTest;
 
-public class UserManagementyuangongTest extends BaseTest{
+public class UMaddyuangongTest extends BaseTest{
 	@BeforeSuite
 	public void addListener(ITestContext context)throws Exception {
 	    TestRunner runner = (TestRunner) context;

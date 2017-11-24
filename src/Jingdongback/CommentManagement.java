@@ -1,10 +1,13 @@
-package Xueli;
+package Jingdongback;
 
 import com.webtest.core.BaseTest;
 import com.webtest.core.WebDriverEngine;
 
 public class CommentManagement extends BaseTest{
 	public WebDriverEngine webtest;
+	public CommentManagement(WebDriverEngine webtest) {
+		this.webtest = webtest;
+    }
 	
 	public void inputValues(String name,String password,String password2,String realname,String phone,String province,
      String city,String county,String address,String email,String sex,String state,String admingroup,String button) throws InterruptedException {
