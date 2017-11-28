@@ -3,15 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Jingdongback.UMsearchTest">
+      <class name="Jingdongback.UMygchakanzuTest">
         <methods>
-          <include name="testBackLogin"/>
           <include name="doAfterMethod"/>
-          <include name="userH"/>
+          <include name="ckz"/>
+          <include name="testBackLogin"/>
           <include name="addListener"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- Jingdongback.UMsearchTest -->
+      </class> <!-- Jingdongback.UMygchakanzuTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
