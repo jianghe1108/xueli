@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 import com.webtest.core.BaseTest;
 
-public class OMsearchTest extends BaseTest{
+public class OMxiangqingTest extends BaseTest{
 	@BeforeSuite
 	public void addListener(ITestContext context)throws Exception {
 	    TestRunner runner = (TestRunner) context;
@@ -23,23 +23,9 @@ public class OMsearchTest extends BaseTest{
      	assertTrue(webtest.getHtmlSource().contains("欢迎光临,"));
     }
 	 @Test(dependsOnMethods="testBackLogin")
-	public void sear() throws InterruptedException { 
-		OrderManagement sear=new OrderManagement(webtest);
-	    //1.搜索的用户名存在
-	 	sear.search("14380529374","陈林");
-	   	Thread.sleep(3000);
-	   	assertTrue(webtest.getHtmlSource().contains("陈林"));
-	    //2.搜索的用户名不存在，订单号存在
-	 	sear.search("14380529374","王林");
-	   	Thread.sleep(3000);
-	    //3.搜索的用户名不存在，订单号不存在
-	 	sear.search("14380529375","王林");
-	   	Thread.sleep(3000);
-	    //4.只搜用户名
-	 	sear.search("","王林");
-	   	Thread.sleep(3000);
-	    //6.只搜订单号
-	 	sear.search("14380529374","");
+	public void xq() throws InterruptedException { 
+		OrderManagement xq=new OrderManagement(webtest);
+	 	xq.xiangqing();
 	   	Thread.sleep(3000);
 	 }  
 }
