@@ -3733,3 +3733,7 @@ Session ID: 7aa07ecf-0f15-44ec-890a-1f759d2339a1
 [INFO ] 2017-11-29 09:38:54,489 com.webtest.util.Log - firefox
 [INFO ] 2017-11-29 09:38:59,883 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
 [INFO ] 2017-11-29 09:39:23,274 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-11-30 17:08:24,891 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-30 17:08:24,895 com.webtest.util.Log - firefox
+[INFO ] 2017-11-30 17:08:30,356 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-11-30 17:09:03,544 com.webtest.util.Log - Quitted Browser
