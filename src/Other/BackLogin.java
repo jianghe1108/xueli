@@ -1,4 +1,4 @@
-package UserManagement;
+package Other;
 
 import com.webtest.core.WebDriverEngine;
 
@@ -13,7 +13,6 @@ public class BackLogin {
 		webtest.type("name=name", name);
 		webtest.type("name=password", password);
 		webtest.click("xpath=//button[@type='submit']");
-	//	webtest.click("xpath=.//*[@id='login-box']/div/div[1]/form/fieldset/div[1]/button");
 	}
 	
 }

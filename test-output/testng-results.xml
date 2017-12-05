@@ -2,39 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="45934" started-at="2017-11-30T09:08:17Z" finished-at="2017-11-30T09:09:03Z">
+  <suite name="Default suite" duration-ms="75967" started-at="2017-12-05T13:19:52Z" finished-at="2017-12-05T13:21:08Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="45934" started-at="2017-11-30T09:08:17Z" finished-at="2017-11-30T09:09:03Z">
-      <class name="CommentManagement.CMhuifuTest">
-        <test-method status="PASS" signature="addListener(org.testng.ITestContext)[pri:0, instance:CommentManagement.CMhuifuTest@6767c1fc]" name="addListener" is-config="true" duration-ms="14" started-at="2017-11-30T17:08:17Z" finished-at="2017-11-30T17:08:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@1af146]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addListener -->
-        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:CommentManagement.CMhuifuTest@6767c1fc]" name="doBeforeMethod" is-config="true" duration-ms="7320" started-at="2017-11-30T17:08:17Z" finished-at="2017-11-30T17:08:24Z">
+    <test name="Default test" duration-ms="75967" started-at="2017-12-05T13:19:52Z" finished-at="2017-12-05T13:21:08Z">
+      <class name="GoodsManagement.GMaddgoodsTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:GoodsManagement.GMaddgoodsTest@4678c730]" name="doBeforeMethod" is-config="true" duration-ms="7368" started-at="2017-12-05T21:19:52Z" finished-at="2017-12-05T21:20:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doBeforeMethod -->
-        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:CommentManagement.CMhuifuTest@6767c1fc]" name="testBackLogin" duration-ms="11950" started-at="2017-11-30T17:08:24Z" finished-at="2017-11-30T17:08:36Z">
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:GoodsManagement.GMaddgoodsTest@4678c730]" name="testBackLogin" duration-ms="11703" started-at="2017-12-05T21:20:00Z" finished-at="2017-12-05T21:20:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBackLogin -->
-        <test-method status="PASS" signature="hf()[pri:0, instance:CommentManagement.CMhuifuTest@6767c1fc]" name="hf" duration-ms="25644" started-at="2017-11-30T17:08:36Z" depends-on-methods="CommentManagement.CMhuifuTest.testBackLogin" finished-at="2017-11-30T17:09:02Z">
+        <test-method status="PASS" signature="addg()[pri:0, instance:GoodsManagement.GMaddgoodsTest@4678c730]" name="addg" duration-ms="56009" started-at="2017-12-05T21:20:11Z" depends-on-methods="GoodsManagement.GMaddgoodsTest.testBackLogin" finished-at="2017-12-05T21:21:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- hf -->
-        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:CommentManagement.CMhuifuTest@6767c1fc]" name="doAfterMethod" is-config="true" duration-ms="998" started-at="2017-11-30T17:09:02Z" finished-at="2017-11-30T17:09:03Z">
+        </test-method> <!-- addg -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:GoodsManagement.GMaddgoodsTest@4678c730]" name="doAfterMethod" is-config="true" duration-ms="857" started-at="2017-12-05T21:21:07Z" finished-at="2017-12-05T21:21:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doAfterMethod -->
-      </class> <!-- CommentManagement.CMhuifuTest -->
+      </class> <!-- GoodsManagement.GMaddgoodsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

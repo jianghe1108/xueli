@@ -3737,3 +3737,1386 @@ Session ID: 7aa07ecf-0f15-44ec-890a-1f759d2339a1
 [INFO ] 2017-11-30 17:08:24,895 com.webtest.util.Log - firefox
 [INFO ] 2017-11-30 17:08:30,356 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
 [INFO ] 2017-11-30 17:09:03,544 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-01 10:26:07,712 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:26:07,717 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:26:13,201 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-01 10:26:51,027 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='白色']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.Mqv1jMiHNbXF, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=45548, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 817733df-add5-450a-b3bc-e60514f58945
+*** Element info: {Using=xpath, value=//input[@value='白色']}
+[INFO ] 2017-12-01 10:26:54,057 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='M']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.Mqv1jMiHNbXF, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=45548, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 817733df-add5-450a-b3bc-e60514f58945
+*** Element info: {Using=xpath, value=//input[@value='M']}
+[INFO ] 2017-12-01 10:26:57,087 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='price']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.Mqv1jMiHNbXF, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=45548, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 817733df-add5-450a-b3bc-e60514f58945
+*** Element info: {Using=name, value=price}
+[INFO ] 2017-12-01 10:27:00,102 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='num']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.Mqv1jMiHNbXF, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=45548, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 817733df-add5-450a-b3bc-e60514f58945
+*** Element info: {Using=name, value=num}
+[INFO ] 2017-12-01 10:27:04,296 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-01 11:05:31,668 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 11:05:31,672 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 11:05:37,117 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-01 11:06:40,876 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-02 10:57:22,280 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-02 10:57:22,283 com.webtest.util.Log - firefox
+[INFO ] 2017-12-02 10:57:27,911 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-02 10:57:37,568 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-02 10:57:44,133 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-02 11:48:02,109 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-02 11:48:02,113 com.webtest.util.Log - firefox
+[INFO ] 2017-12-02 11:48:07,615 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-02 11:49:08,488 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-02 11:55:59,341 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-02 11:55:59,347 com.webtest.util.Log - firefox
+[INFO ] 2017-12-02 11:56:04,800 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-02 11:56:44,507 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-02 12:03:57,660 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-02 12:03:57,664 com.webtest.util.Log - firefox
+[INFO ] 2017-12-02 12:04:03,117 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-02 12:04:46,041 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-02 12:07:14,952 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-02 12:07:14,956 com.webtest.util.Log - firefox
+[INFO ] 2017-12-02 12:07:20,389 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-02 12:07:34,145 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='sidebar']/ul/li[2]/a/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '10.222.212.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.hIUFxvU9srmL, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=67496, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c085717e-404e-430f-8456-ab434f7b771c
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[2]/a/span}
+[INFO ] 2017-12-02 12:07:34,165 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='sidebar']/ul/li[2]/ul/li[1]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '10.222.212.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.hIUFxvU9srmL, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=67496, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c085717e-404e-430f-8456-ab434f7b771c
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[2]/ul/li[1]/a}
+[INFO ] 2017-12-02 12:07:34,180 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='main-container']/div/div[2]/div[2]/div[1]/h1/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '10.222.212.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.hIUFxvU9srmL, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=67496, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c085717e-404e-430f-8456-ab434f7b771c
+*** Element info: {Using=xpath, value=.//*[@id='main-container']/div/div[2]/div[2]/div[1]/h1/a}
+[INFO ] 2017-12-02 12:07:34,267 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='type_id']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '10.222.212.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.hIUFxvU9srmL, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=67496, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: c085717e-404e-430f-8456-ab434f7b771c
+*** Element info: {Using=name, value=type_id}
+[INFO ] 2017-12-02 12:07:35,371 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-02 12:07:57,018 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-02 12:07:57,022 com.webtest.util.Log - firefox
+[INFO ] 2017-12-02 12:08:02,437 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-02 12:08:46,990 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 08:26:05,226 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 08:26:05,243 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 08:26:10,890 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 08:26:56,472 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 08:29:38,043 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 08:29:38,047 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 08:29:43,457 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 08:30:27,415 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 08:52:54,041 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 08:52:54,045 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 08:52:59,409 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 08:53:40,494 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 08:55:02,123 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 08:55:02,126 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 08:55:07,517 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 08:55:53,448 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='state']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.8d6L9GC7MxAx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6688, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ef5cafc4-a959-4a7f-a48e-74ee4526ec8f
+*** Element info: {Using=xpath, value=//input[@value='state']}
+[INFO ] 2017-12-05 08:55:53,459 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='isbest']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.8d6L9GC7MxAx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6688, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ef5cafc4-a959-4a7f-a48e-74ee4526ec8f
+*** Element info: {Using=xpath, value=//input[@value='isbest']}
+[INFO ] 2017-12-05 08:55:56,483 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.8d6L9GC7MxAx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6688, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ef5cafc4-a959-4a7f-a48e-74ee4526ec8f
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 08:55:57,174 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 09:00:13,363 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 09:00:13,382 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 09:00:18,813 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 09:01:04,607 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='state' and value='2']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.s2wF3ZgrDZjr, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4548, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7ccc485b-694e-48fb-b294-20894aa1fb68
+*** Element info: {Using=xpath, value=//input[@value='state' and value='2']}
+[INFO ] 2017-12-05 09:01:04,620 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='ishot']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.s2wF3ZgrDZjr, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4548, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7ccc485b-694e-48fb-b294-20894aa1fb68
+*** Element info: {Using=xpath, value=//input[@value='ishot']}
+[INFO ] 2017-12-05 09:01:07,651 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.s2wF3ZgrDZjr, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4548, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7ccc485b-694e-48fb-b294-20894aa1fb68
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 09:01:08,470 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 09:01:56,752 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 09:01:56,763 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 09:02:02,156 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 09:02:47,869 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='state' and value='2']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.jq7bJhKTCNkX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9600, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f77dbda9-7a03-4680-9b19-2e8e15bad240
+*** Element info: {Using=xpath, value=//input[@value='state' and value='2']}
+[INFO ] 2017-12-05 09:02:47,884 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='ishot']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.jq7bJhKTCNkX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9600, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f77dbda9-7a03-4680-9b19-2e8e15bad240
+*** Element info: {Using=xpath, value=//input[@value='ishot']}
+[INFO ] 2017-12-05 09:02:50,906 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.jq7bJhKTCNkX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9600, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f77dbda9-7a03-4680-9b19-2e8e15bad240
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 09:02:51,925 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 09:05:58,477 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 09:05:58,484 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 09:06:03,877 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 09:06:52,782 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='ishot']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.bbtM1aDpov4n, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12268, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0601858b-f474-49c8-846c-c7945cc90a0f
+*** Element info: {Using=xpath, value=//input[@value='ishot']}
+[INFO ] 2017-12-05 09:06:55,804 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.bbtM1aDpov4n, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12268, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0601858b-f474-49c8-846c-c7945cc90a0f
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 09:06:56,519 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 09:07:53,222 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 09:07:53,227 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 09:07:58,616 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 09:08:53,315 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.XCOQrxhCBdfy, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2816, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d14cac7c-a8c0-4e58-beb5-092c2ace8912
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 09:08:54,078 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 09:14:56,046 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 09:14:56,062 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 09:15:01,491 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 09:15:42,597 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //html/body/p
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.zcD3MKKngLdZ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4084, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4719f496-f302-4496-86da-7cc7ea292935
+*** Element info: {Using=xpath, value=//html/body/p}
+[INFO ] 2017-12-05 09:15:42,614 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='state' and value='2']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.zcD3MKKngLdZ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4084, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4719f496-f302-4496-86da-7cc7ea292935
+*** Element info: {Using=xpath, value=//input[@value='state' and value='2']}
+[INFO ] 2017-12-05 09:15:42,630 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='ishot']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.zcD3MKKngLdZ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4084, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4719f496-f302-4496-86da-7cc7ea292935
+*** Element info: {Using=xpath, value=//input[@value='ishot']}
+[INFO ] 2017-12-05 09:15:45,674 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.zcD3MKKngLdZ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4084, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4719f496-f302-4496-86da-7cc7ea292935
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 09:15:46,367 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 09:24:41,189 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 09:24:41,200 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 09:24:46,649 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 09:24:59,348 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:24:59,353 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:24:59,353 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:24:59,353 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:24:59,368 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:24:59,368 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:24:59,368 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:24:59,384 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:24:59,384 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:24:59,384 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:24:59,384 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:24:59,399 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:24:59,399 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:25:02,403 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:25:08,409 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:25:08,435 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:25:08,440 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:25:08,440 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:25:08,456 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:25:08,456 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:25:08,471 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:25:08,471 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:25:08,471 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:25:08,471 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:25:08,494 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:25:08,496 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:25:08,496 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:25:08,496 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:25:11,497 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:25:17,513 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:25:17,530 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:25:17,546 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:25:17,561 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:25:17,561 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:25:17,577 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:25:17,577 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:25:17,577 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:25:17,592 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:25:17,592 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:25:17,608 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:25:17,608 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:25:17,624 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:25:17,624 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:25:20,639 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:25:26,662 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:25:26,679 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:25:26,695 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:25:26,710 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:25:26,710 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:25:26,710 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:25:26,726 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:25:26,726 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:25:26,726 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:25:26,742 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:25:26,742 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:25:26,742 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:25:26,757 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:25:26,757 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:25:29,767 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:25:35,774 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:25:35,780 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:25:35,780 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:25:35,780 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:25:35,780 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:25:35,796 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:25:35,796 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:25:35,796 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:25:35,796 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:25:35,811 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:25:35,811 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:25:35,811 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:25:35,811 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:25:35,827 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:25:38,830 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:25:44,841 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:25:44,853 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:25:44,853 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:25:44,853 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:25:44,869 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:25:44,869 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:25:44,869 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:25:44,869 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:25:44,884 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:25:44,884 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:25:44,884 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:25:44,884 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:25:44,900 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:25:44,900 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:25:47,900 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:25:53,919 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:25:53,924 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:25:53,924 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:25:53,924 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:25:53,924 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:25:53,924 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:25:53,939 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:25:53,939 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:25:53,939 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:25:53,939 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:25:53,955 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:25:53,955 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:25:53,955 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:25:53,955 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:25:56,956 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:26:02,983 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:26:02,996 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:26:03,012 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:26:03,012 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:26:03,012 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:26:03,027 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:26:03,027 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:26:03,043 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:26:03,043 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:26:03,043 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:26:03,043 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:26:03,058 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:26:03,058 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:26:03,058 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:26:06,064 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:26:12,072 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:26:12,086 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:26:12,102 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:26:12,102 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:26:12,117 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:26:12,117 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:26:12,133 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:26:12,133 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:26:12,149 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:26:12,149 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:26:12,164 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:26:12,164 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:26:12,164 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:26:12,164 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:26:15,178 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 09:26:21,192 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/a}
+[INFO ] 2017-12-05 09:26:21,205 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='sidebar']/ul/li[1]/ul/li[2]/a}
+[INFO ] 2017-12-05 09:26:21,221 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//*[@id='breadcrumbs']/a}
+[INFO ] 2017-12-05 09:26:21,221 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-05 09:26:21,236 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=nickname}
+[INFO ] 2017-12-05 09:26:21,236 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-05 09:26:21,236 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=password2}
+[INFO ] 2017-12-05 09:26:21,236 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=email}
+[INFO ] 2017-12-05 09:26:21,252 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=phone}
+[INFO ] 2017-12-05 09:26:21,252 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=year}
+[INFO ] 2017-12-05 09:26:21,252 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=month}
+[INFO ] 2017-12-05 09:26:21,252 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=name, value=day}
+[INFO ] 2017-12-05 09:26:21,267 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@value='女']}
+[INFO ] 2017-12-05 09:26:21,267 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=//input[@name='state'and @value='1']}
+[INFO ] 2017-12-05 09:26:24,268 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.pv1Ir63cMlQ0, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11576, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0d72e49e-e771-49d5-83a0-dbda15c5df4f
+*** Element info: {Using=xpath, value=.//button[@type='submit']}
+[INFO ] 2017-12-05 19:35:37,306 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 19:35:37,310 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 19:35:42,729 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 19:36:28,264 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='state' and value='2']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.14Ugqs9NshrZ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9396, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 60000362-c6cf-496a-8e43-b8667cf3dc9a
+*** Element info: {Using=xpath, value=//input[@value='state' and value='2']}
+[INFO ] 2017-12-05 19:36:28,275 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='ishot']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.14Ugqs9NshrZ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9396, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 60000362-c6cf-496a-8e43-b8667cf3dc9a
+*** Element info: {Using=xpath, value=//input[@value='ishot']}
+[INFO ] 2017-12-05 19:36:31,285 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.14Ugqs9NshrZ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9396, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 60000362-c6cf-496a-8e43-b8667cf3dc9a
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 19:36:31,998 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 21:01:13,443 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 21:01:13,447 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 21:01:18,900 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 21:02:08,376 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@value='ishot']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '10.222.230.205', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.VEDqil03UvD9, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13364, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 9fcf1eda-5312-47a4-b0b1-ec008e18c8ff
+*** Element info: {Using=xpath, value=//input[@value='ishot']}
+[INFO ] 2017-12-05 21:02:11,389 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '10.222.230.205', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.VEDqil03UvD9, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13364, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 9fcf1eda-5312-47a4-b0b1-ec008e18c8ff
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 21:02:12,121 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 21:03:45,824 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 21:03:45,829 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 21:03:51,253 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 21:04:46,573 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//button[@type='button']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '10.222.230.205', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.CZC0iCFjfvK8, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3960, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: fbe6b0e1-3020-4f40-92aa-bd235aeccbcc
+*** Element info: {Using=xpath, value=.//button[@type='button']}
+[INFO ] 2017-12-05 21:04:47,301 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 21:10:22,560 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 21:10:22,564 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 21:10:28,006 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 21:11:28,701 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 21:14:15,453 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 21:14:15,457 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 21:14:20,893 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 21:15:04,782 com.webtest.util.Log - Entered iframe ueditor_0
+[INFO ] 2017-12-05 21:15:04,848 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 21:15:24,199 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-05 21:20:00,170 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 21:20:00,175 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 21:20:05,633 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/admin.php/Login/
+[INFO ] 2017-12-05 21:20:49,601 com.webtest.util.Log - Entered iframe ueditor_0
+[INFO ] 2017-12-05 21:20:49,673 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 21:21:08,829 com.webtest.util.Log - Quitted Browser

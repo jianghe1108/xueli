@@ -1,4 +1,4 @@
-package UserManagement;
+package Other;
 
 import org.testng.ITestContext;
 import org.testng.ITestResult;
@@ -9,6 +9,7 @@ public class Listener extends TestListenerAdapter{
 		//Test指的是每一个测试用例
 		public void onTestFailure(ITestResult result){
 		//截屏
+			
 		}
 		public void onTestSkipped(ITestResult result){
 			
