@@ -6,7 +6,6 @@
       <class name="GoodsManagement.GMaddgoodsTest">
         <methods>
           <include name="testBackLogin"/>
-          <include name="addListener"/>
           <include name="doAfterMethod"/>
           <include name="addg"/>
           <include name="doBeforeMethod"/>

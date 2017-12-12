@@ -7,7 +7,6 @@ import com.webtest.core.BaseTest;
 import Other.BackLogin;
 
 public class GMaddgoodsTest extends BaseTest{
-	
 	@Test
     public void testBackLogin() throws InterruptedException {
     	BackLogin add=new Other.BackLogin(webtest);

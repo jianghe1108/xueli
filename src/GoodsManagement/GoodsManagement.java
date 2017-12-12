@@ -29,7 +29,7 @@ public class GoodsManagement extends BaseTest{
 		webtest.type("xpath=.//*[@id='process']/tbody/tr[2]/td[3]/input", price2);
 		webtest.type("xpath=.//*[@id='process']/tbody/tr[2]/td[4]/input", num2);
 		webtest.type("name=pic",pic);
-	//	Thread.sleep(5000);
+		Thread.sleep(3000);
 	//	webtest.enterFrame("ueditor_0");
 	//	webtest.type("xpath=//body/p", p);
 	//	webtest.leaveFrame();
@@ -38,7 +38,7 @@ public class GoodsManagement extends BaseTest{
 		webtest.Tab();
 		webtest.Tab();
 		webtest.Sendkeys(p);
-		Thread.sleep(5000);
+		Thread.sleep(3000);
 		webtest.click("xpath=//input[@name='state' and @value='2']");
 		webtest.click("xpath=//input[@name='ishot']");
 		Thread.sleep(3000);

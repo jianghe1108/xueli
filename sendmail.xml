@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="s1" parallel="tests" verbose="1">
+	<test name="t1">
+		<classes>
+			<class name="Other.SendEmail">
+			     <methods> 
+			            <include name="send"/>
+			     </methods>
+			</class>
+		</classes>
+	</test>
+</suite>

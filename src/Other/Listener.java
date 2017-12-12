@@ -9,7 +9,7 @@ public class Listener extends TestListenerAdapter{
 		//Test指的是每一个测试用例
 		public void onTestFailure(ITestResult result){
 		//截屏
-			
+
 		}
 		public void onTestSkipped(ITestResult result){
 			
@@ -23,12 +23,12 @@ public class Listener extends TestListenerAdapter{
 		}
 		//3.以下两个方法在testng.xml中的,test标签开始前，后执行
 		public void onStart(ITestContext content){
-			
 		}
 		@Override
 		public void onFinish(ITestContext content){
-			System.out.println("用例执行完毕，发送邮件");
-			
+			System.out.println("用例执行完毕，发送邮件");	
+
 		}	
+		
 		
 	}

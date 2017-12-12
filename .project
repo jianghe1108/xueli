@@ -20,10 +20,5 @@
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/%E4%B8%93%E4%B8%9A%E8%AF%BE%E8%AF%BE%E4%BB%B6/%E5%A4%A7%E4%B8%89%E4%B8%8A/Selenium/jjjj/activation.jar</locationURI>
 		</link>
-		<link>
-			<name>lib/auto2017.jar</name>
-			<type>1</type>
-			<locationURI>PROJECT_LOC/auto2017.jar</locationURI>
-		</link>
 	</linkedResources>
 </projectDescription>

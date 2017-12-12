@@ -8,6 +8,9 @@ import Other.BackLogin;
 
 
 public class CMsearchTest extends BaseTest{
+	public CMsearchTest(){
+	System.out.println("子类的构造方法");
+	}
 
 	@Test
     public void testBackLogin() throws InterruptedException {
