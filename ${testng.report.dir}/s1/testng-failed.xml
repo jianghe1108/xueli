@@ -1,35 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [s1]">
-  <listeners>
-    <listener class-name="Other.Listener"/>
-  </listeners>
-  <test name="t1(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [s1]" parallel="tests">
+  <test name="t1(failed)" parallel="tests">
     <classes>
-      <class name="CommentManagement.CMsearchTest">
+      <class name="Other.SendEmail">
         <methods>
-          <include name="doAfterMethod"/>
-          <include name="testBackLogin"/>
-          <include name="sear"/>
-          <include name="doBeforeMethod"/>
+          <include name="send"/>
         </methods>
-      </class> <!-- CommentManagement.CMsearchTest -->
-      <class name="UserManagement.UMygdelTest">
-        <methods>
-          <include name="testBackLogin"/>
-          <include name="doAfterMethod"/>
-          <include name="del"/>
-          <include name="doBeforeMethod"/>
-        </methods>
-      </class> <!-- UserManagement.UMygdelTest -->
-      <class name="OrderManagement.OMsearchTest">
-        <methods>
-          <include name="sear"/>
-          <include name="doAfterMethod"/>
-          <include name="testBackLogin"/>
-          <include name="doBeforeMethod"/>
-        </methods>
-      </class> <!-- OrderManagement.OMsearchTest -->
+      </class> <!-- Other.SendEmail -->
     </classes>
   </test> <!-- t1(failed) -->
 </suite> <!-- Failed suite [s1] -->

@@ -27,8 +27,5 @@ public class Listener extends TestListenerAdapter{
 		@Override
 		public void onFinish(ITestContext content){
 			System.out.println("用例执行完毕，发送邮件");	
-
 		}	
-		
-		
 	}

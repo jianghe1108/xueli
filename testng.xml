@@ -6,8 +6,8 @@
 </listeners>
 	<test name="t1">
 		<classes>
-			<class name="CommentManagement.CMhuifuTest"></class>
-			<class name="CommentManagement.CMsearchTest"></class>
+			<class name="CommentManagement.CMhuifuTest"></class> <!--2-->
+			<!--<class name="CommentManagement.CMsearchTest"></class>
 			<class name="GoodsManagement.GMaddgoodsTest"></class>
 			<class name="OrderManagement.OMsearchTest"></class>
 			<class name="OrderManagement.OMxiangqingTest"></class>
@@ -19,7 +19,7 @@
 			<class name="UserManagement.UMygchakanzuTest"></class>
 			<class name="UserManagement.UMygdelTest"></class>
 			<class name="UserManagement.UMygrepasswordTest"></class>
-			<class name="UserManagement.UMygsearchTest"></class>
+			<class name="UserManagement.UMygsearchTest"></class> -->
 		</classes>
 	</test>
 </suite>

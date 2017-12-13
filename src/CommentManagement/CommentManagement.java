@@ -16,7 +16,9 @@ public class CommentManagement extends BaseTest{
 		//¶¨Î»ËÑË÷¿ò
 		webtest.click("xpath=.//*[@id='nav-search-input']");
 		//ËÑË÷¿òÊäÈëÄÚÈİ
-		webtest.type("name=id", id);
+	    //webtest.getElementsSize("name=id");
+	    webtest.type("name=id", id);
+	   // webtest.type("id=nav-search-input", id);
 		//µã»÷ËÑË÷
 		webtest.click("xpath=.//*[@id='nav-search']/form/span/button");
 	}

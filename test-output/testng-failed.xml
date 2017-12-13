@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [s1]">
-  <listeners>
-    <listener class-name="Other.Listener"/>
-  </listeners>
-  <test name="t1(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
       <class name="CommentManagement.CMsearchTest">
         <methods>
           <include name="doAfterMethod"/>
+          <include name="sear6"/>
           <include name="testBackLogin"/>
-          <include name="sear"/>
           <include name="doBeforeMethod"/>
         </methods>
       </class> <!-- CommentManagement.CMsearchTest -->
     </classes>
-  </test> <!-- t1(failed) -->
-</suite> <!-- Failed suite [s1] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

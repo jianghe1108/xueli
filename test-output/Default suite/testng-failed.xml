@@ -3,14 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="GoodsManagement.GMaddgoodsTest">
+      <class name="CommentManagement.CMsearchTest">
         <methods>
-          <include name="testBackLogin"/>
           <include name="doAfterMethod"/>
-          <include name="addg"/>
+          <include name="sear6"/>
+          <include name="testBackLogin"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- GoodsManagement.GMaddgoodsTest -->
+      </class> <!-- CommentManagement.CMsearchTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

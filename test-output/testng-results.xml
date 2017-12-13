@@ -1,82 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="s1" duration-ms="168763" started-at="2017-12-12T03:06:45Z" finished-at="2017-12-12T03:09:34Z">
+  <suite name="s1" duration-ms="51369" started-at="2017-12-13T01:48:11Z" finished-at="2017-12-13T01:49:02Z">
     <groups>
     </groups>
-    <test name="t1" duration-ms="168763" started-at="2017-12-12T03:06:45Z" finished-at="2017-12-12T03:09:34Z">
-      <class name="CommentManagement.CMsearchTest">
-        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:CommentManagement.CMsearchTest@7dc7cbad]" name="doBeforeMethod" is-config="true" duration-ms="6657" started-at="2017-12-12T11:07:32Z" finished-at="2017-12-12T11:07:39Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- doBeforeMethod -->
-        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:CommentManagement.CMsearchTest@7dc7cbad]" name="testBackLogin" duration-ms="12223" started-at="2017-12-12T11:07:39Z" finished-at="2017-12-12T11:07:51Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testBackLogin -->
-        <test-method status="FAIL" signature="sear()[pri:0, instance:CommentManagement.CMsearchTest@7dc7cbad]" name="sear" duration-ms="101639" started-at="2017-12-12T11:07:51Z" depends-on-methods="CommentManagement.CMsearchTest.testBackLogin" finished-at="2017-12-12T11:09:33Z">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:93)
-	at org.testng.Assert.failNotEquals(Assert.java:512)
-	at org.testng.Assert.assertTrue(Assert.java:41)
-	at org.testng.Assert.assertTrue(Assert.java:51)
-	at CommentManagement.CMsearchTest.sear(CMsearchTest.java:45)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-	at org.testng.TestRunner.privateRun(TestRunner.java:776)
-	at org.testng.TestRunner.run(TestRunner.java:634)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
-	at org.testng.TestNG.runSuites(TestNG.java:1161)
-	at org.testng.TestNG.run(TestNG.java:1129)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- sear -->
-        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:CommentManagement.CMsearchTest@7dc7cbad]" name="doAfterMethod" is-config="true" duration-ms="735" started-at="2017-12-12T11:09:33Z" finished-at="2017-12-12T11:09:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- doAfterMethod -->
-      </class> <!-- CommentManagement.CMsearchTest -->
+    <test name="t1" duration-ms="51369" started-at="2017-12-13T01:48:11Z" finished-at="2017-12-13T01:49:02Z">
       <class name="CommentManagement.CMhuifuTest">
-        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:CommentManagement.CMhuifuTest@4520ebad]" name="doBeforeMethod" is-config="true" duration-ms="8000" started-at="2017-12-12T11:06:45Z" finished-at="2017-12-12T11:06:53Z">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:CommentManagement.CMhuifuTest@73035e27]" name="doBeforeMethod" is-config="true" duration-ms="10803" started-at="2017-12-13T09:48:11Z" finished-at="2017-12-13T09:48:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doBeforeMethod -->
-        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:CommentManagement.CMhuifuTest@4520ebad]" name="testBackLogin" duration-ms="12217" started-at="2017-12-12T11:06:53Z" finished-at="2017-12-12T11:07:05Z">
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:CommentManagement.CMhuifuTest@73035e27]" name="testBackLogin" duration-ms="12201" started-at="2017-12-13T09:48:22Z" finished-at="2017-12-13T09:48:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBackLogin -->
-        <test-method status="PASS" signature="hf()[pri:0, instance:CommentManagement.CMhuifuTest@4520ebad]" name="hf" duration-ms="26373" started-at="2017-12-12T11:07:05Z" depends-on-methods="CommentManagement.CMhuifuTest.testBackLogin" finished-at="2017-12-12T11:07:31Z">
+        <test-method status="PASS" signature="hf()[pri:0, instance:CommentManagement.CMhuifuTest@73035e27]" name="hf" duration-ms="27369" started-at="2017-12-13T09:48:34Z" depends-on-methods="CommentManagement.CMhuifuTest.testBackLogin" finished-at="2017-12-13T09:49:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hf -->
-        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:CommentManagement.CMhuifuTest@4520ebad]" name="doAfterMethod" is-config="true" duration-ms="873" started-at="2017-12-12T11:07:31Z" finished-at="2017-12-12T11:07:32Z">
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:CommentManagement.CMhuifuTest@73035e27]" name="doAfterMethod" is-config="true" duration-ms="960" started-at="2017-12-13T09:49:01Z" finished-at="2017-12-13T09:49:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doAfterMethod -->

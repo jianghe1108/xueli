@@ -9,8 +9,9 @@
       <class name="CommentManagement.CMsearchTest">
         <methods>
           <include name="doAfterMethod"/>
+          <include name="sear7"/>
+          <include name="sear6"/>
           <include name="testBackLogin"/>
-          <include name="sear"/>
           <include name="doBeforeMethod"/>
         </methods>
       </class> <!-- CommentManagement.CMsearchTest -->

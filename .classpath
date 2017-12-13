@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="lib/testng-6.9.9.jar"/>
 	<classpathentry kind="lib" path="lib/activation.jar"/>
 	<classpathentry kind="lib" path="lib/auto12017.jar"/>
+	<classpathentry kind="lib" path="lib/freemarker.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

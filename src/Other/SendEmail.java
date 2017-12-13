@@ -56,7 +56,7 @@ import org.testng.annotations.Test;
          message.setText("自动化测试完成，测试结果请注意查收。"); 
          //创建邮件正文，为了避免邮件正文中文乱码问题，需要使用charset=UTF-8指明字符编码
          MimeBodyPart text = new MimeBodyPart();
-         text.setContent("使用创建的带附件的邮件", "text/html;charset=UTF-8");        
+         text.setContent("你好，测试用例已执行完毕，现将结果发送至您的邮箱，请注意查收", "text/html;charset=UTF-8");        
          //创建邮件附件
          MimeBodyPart attach = new MimeBodyPart();
          DataHandler dh = new DataHandler(new FileDataSource("D:/workspace/xueli/report.zip"));
