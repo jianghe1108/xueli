@@ -1,29 +1,686 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="5" ignored="0" total="68" passed="63">
   <reporter-output>
   </reporter-output>
-  <suite name="s1" duration-ms="51369" started-at="2017-12-13T01:48:11Z" finished-at="2017-12-13T01:49:02Z">
+  <suite name="s1" duration-ms="1558750" started-at="2017-12-13T03:15:29Z" finished-at="2017-12-13T03:41:28Z">
     <groups>
     </groups>
-    <test name="t1" duration-ms="51369" started-at="2017-12-13T01:48:11Z" finished-at="2017-12-13T01:49:02Z">
-      <class name="CommentManagement.CMhuifuTest">
-        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:CommentManagement.CMhuifuTest@73035e27]" name="doBeforeMethod" is-config="true" duration-ms="10803" started-at="2017-12-13T09:48:11Z" finished-at="2017-12-13T09:48:22Z">
+    <test name="t1" duration-ms="1558750" started-at="2017-12-13T03:15:29Z" finished-at="2017-12-13T03:41:28Z">
+      <class name="OrderManagement.OMxiangqingTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:OrderManagement.OMxiangqingTest@7cdbc5d3]" name="doBeforeMethod" is-config="true" duration-ms="5987" started-at="2017-12-13T11:20:47Z" finished-at="2017-12-13T11:20:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doBeforeMethod -->
-        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:CommentManagement.CMhuifuTest@73035e27]" name="testBackLogin" duration-ms="12201" started-at="2017-12-13T09:48:22Z" finished-at="2017-12-13T09:48:34Z">
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:OrderManagement.OMxiangqingTest@7cdbc5d3]" name="testBackLogin" duration-ms="11693" started-at="2017-12-13T11:20:53Z" finished-at="2017-12-13T11:21:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBackLogin -->
-        <test-method status="PASS" signature="hf()[pri:0, instance:CommentManagement.CMhuifuTest@73035e27]" name="hf" duration-ms="27369" started-at="2017-12-13T09:48:34Z" depends-on-methods="CommentManagement.CMhuifuTest.testBackLogin" finished-at="2017-12-13T09:49:01Z">
+        <test-method status="PASS" signature="xq()[pri:0, instance:OrderManagement.OMxiangqingTest@7cdbc5d3]" name="xq" duration-ms="16232" started-at="2017-12-13T11:21:05Z" depends-on-methods="OrderManagement.OMxiangqingTest.testBackLogin" finished-at="2017-12-13T11:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xq -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:OrderManagement.OMxiangqingTest@7cdbc5d3]" name="doAfterMethod" is-config="true" duration-ms="695" started-at="2017-12-13T11:21:21Z" finished-at="2017-12-13T11:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- OrderManagement.OMxiangqingTest -->
+      <class name="UserManagement.UMaddhuiyuanTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:UserManagement.UMaddhuiyuanTest@3834d63f]" name="doBeforeMethod" is-config="true" duration-ms="5958" started-at="2017-12-13T11:26:28Z" finished-at="2017-12-13T11:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:UserManagement.UMaddhuiyuanTest@3834d63f]" name="testBackLogin" duration-ms="11628" started-at="2017-12-13T11:26:34Z" finished-at="2017-12-13T11:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="userH()[pri:0, instance:UserManagement.UMaddhuiyuanTest@3834d63f]" name="userH" duration-ms="298868" started-at="2017-12-13T11:26:46Z" depends-on-methods="UserManagement.UMaddhuiyuanTest.testBackLogin" finished-at="2017-12-13T11:31:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userH -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:UserManagement.UMaddhuiyuanTest@3834d63f]" name="doAfterMethod" is-config="true" duration-ms="659" started-at="2017-12-13T11:31:45Z" finished-at="2017-12-13T11:31:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- UserManagement.UMaddhuiyuanTest -->
+      <class name="OrderManagement.OMsearchTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:OrderManagement.OMsearchTest@34033bd0]" name="doBeforeMethod" is-config="true" duration-ms="6514" started-at="2017-12-13T11:19:41Z" finished-at="2017-12-13T11:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:OrderManagement.OMsearchTest@34033bd0]" name="testBackLogin" duration-ms="11804" started-at="2017-12-13T11:19:48Z" finished-at="2017-12-13T11:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="FAIL" signature="sear1()[pri:0, instance:OrderManagement.OMsearchTest@34033bd0]" name="sear1" duration-ms="22676" started-at="2017-12-13T11:19:59Z" depends-on-methods="OrderManagement.OMsearchTest.testBackLogin" finished-at="2017-12-13T11:20:22Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertTrue(Assert.java:41)
+	at org.testng.Assert.assertTrue(Assert.java:51)
+	at OrderManagement.OMsearchTest.sear1(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.TestNG.privateMain(TestNG.java:1459)
+	at org.testng.TestNG.main(TestNG.java:1428)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear1 -->
+        <test-method status="PASS" signature="sear2()[pri:0, instance:OrderManagement.OMsearchTest@34033bd0]" name="sear2" duration-ms="6199" started-at="2017-12-13T11:20:22Z" depends-on-methods="OrderManagement.OMsearchTest.testBackLogin" finished-at="2017-12-13T11:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear2 -->
+        <test-method status="PASS" signature="sear3()[pri:0, instance:OrderManagement.OMsearchTest@34033bd0]" name="sear3" duration-ms="6197" started-at="2017-12-13T11:20:28Z" depends-on-methods="OrderManagement.OMsearchTest.testBackLogin" finished-at="2017-12-13T11:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear3 -->
+        <test-method status="PASS" signature="sear4()[pri:0, instance:OrderManagement.OMsearchTest@34033bd0]" name="sear4" duration-ms="6094" started-at="2017-12-13T11:20:34Z" depends-on-methods="OrderManagement.OMsearchTest.testBackLogin" finished-at="2017-12-13T11:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear4 -->
+        <test-method status="PASS" signature="sear5()[pri:0, instance:OrderManagement.OMsearchTest@34033bd0]" name="sear5" duration-ms="6079" started-at="2017-12-13T11:20:41Z" depends-on-methods="OrderManagement.OMsearchTest.testBackLogin" finished-at="2017-12-13T11:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear5 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:OrderManagement.OMsearchTest@34033bd0]" name="doAfterMethod" is-config="true" duration-ms="621" started-at="2017-12-13T11:20:47Z" finished-at="2017-12-13T11:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- OrderManagement.OMsearchTest -->
+      <class name="UserManagement.UMygrepasswordTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:UserManagement.UMygrepasswordTest@721e0f4f]" name="doBeforeMethod" is-config="true" duration-ms="5981" started-at="2017-12-13T11:38:22Z" finished-at="2017-12-13T11:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:UserManagement.UMygrepasswordTest@721e0f4f]" name="testBackLogin" duration-ms="11728" started-at="2017-12-13T11:38:28Z" finished-at="2017-12-13T11:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="re1()[pri:0, instance:UserManagement.UMygrepasswordTest@721e0f4f]" name="re1" duration-ms="22310" started-at="2017-12-13T11:38:40Z" depends-on-methods="UserManagement.UMygrepasswordTest.testBackLogin" finished-at="2017-12-13T11:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- re1 -->
+        <test-method status="PASS" signature="re2()[pri:0, instance:UserManagement.UMygrepasswordTest@721e0f4f]" name="re2" duration-ms="22328" started-at="2017-12-13T11:39:02Z" depends-on-methods="UserManagement.UMygrepasswordTest.testBackLogin" finished-at="2017-12-13T11:39:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- re2 -->
+        <test-method status="PASS" signature="re3()[pri:0, instance:UserManagement.UMygrepasswordTest@721e0f4f]" name="re3" duration-ms="22282" started-at="2017-12-13T11:39:25Z" depends-on-methods="UserManagement.UMygrepasswordTest.testBackLogin" finished-at="2017-12-13T11:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- re3 -->
+        <test-method status="PASS" signature="re4()[pri:0, instance:UserManagement.UMygrepasswordTest@721e0f4f]" name="re4" duration-ms="22301" started-at="2017-12-13T11:39:47Z" depends-on-methods="UserManagement.UMygrepasswordTest.testBackLogin" finished-at="2017-12-13T11:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- re4 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:UserManagement.UMygrepasswordTest@721e0f4f]" name="doAfterMethod" is-config="true" duration-ms="690" started-at="2017-12-13T11:40:09Z" finished-at="2017-12-13T11:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- UserManagement.UMygrepasswordTest -->
+      <class name="UserManagement.UMaddyuangongTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="doBeforeMethod" is-config="true" duration-ms="5960" started-at="2017-12-13T11:31:45Z" finished-at="2017-12-13T11:31:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="testBackLogin" duration-ms="11650" started-at="2017-12-13T11:31:51Z" finished-at="2017-12-13T11:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="addY1()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="addY1" duration-ms="26555" started-at="2017-12-13T11:32:03Z" depends-on-methods="UserManagement.UMaddyuangongTest.testBackLogin" finished-at="2017-12-13T11:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addY1 -->
+        <test-method status="PASS" signature="addY2()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="addY2" duration-ms="26460" started-at="2017-12-13T11:32:30Z" depends-on-methods="UserManagement.UMaddyuangongTest.testBackLogin" finished-at="2017-12-13T11:32:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addY2 -->
+        <test-method status="PASS" signature="addY3()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="addY3" duration-ms="26380" started-at="2017-12-13T11:32:56Z" depends-on-methods="UserManagement.UMaddyuangongTest.testBackLogin" finished-at="2017-12-13T11:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addY3 -->
+        <test-method status="PASS" signature="addY4()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="addY4" duration-ms="26413" started-at="2017-12-13T11:33:22Z" depends-on-methods="UserManagement.UMaddyuangongTest.testBackLogin" finished-at="2017-12-13T11:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addY4 -->
+        <test-method status="PASS" signature="addY5()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="addY5" duration-ms="26446" started-at="2017-12-13T11:33:49Z" depends-on-methods="UserManagement.UMaddyuangongTest.testBackLogin" finished-at="2017-12-13T11:34:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addY5 -->
+        <test-method status="PASS" signature="addY6()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="addY6" duration-ms="26448" started-at="2017-12-13T11:34:15Z" depends-on-methods="UserManagement.UMaddyuangongTest.testBackLogin" finished-at="2017-12-13T11:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addY6 -->
+        <test-method status="PASS" signature="addY7()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="addY7" duration-ms="26056" started-at="2017-12-13T11:34:42Z" depends-on-methods="UserManagement.UMaddyuangongTest.testBackLogin" finished-at="2017-12-13T11:35:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addY7 -->
+        <test-method status="PASS" signature="addY8()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="addY8" duration-ms="26101" started-at="2017-12-13T11:35:08Z" depends-on-methods="UserManagement.UMaddyuangongTest.testBackLogin" finished-at="2017-12-13T11:35:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addY8 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:UserManagement.UMaddyuangongTest@6fffcba5]" name="doAfterMethod" is-config="true" duration-ms="691" started-at="2017-12-13T11:35:34Z" finished-at="2017-12-13T11:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- UserManagement.UMaddyuangongTest -->
+      <class name="CommentManagement.CMhuifuTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:CommentManagement.CMhuifuTest@61a52fbd]" name="doBeforeMethod" is-config="true" duration-ms="7271" started-at="2017-12-13T11:15:29Z" finished-at="2017-12-13T11:15:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:CommentManagement.CMhuifuTest@61a52fbd]" name="testBackLogin" duration-ms="11858" started-at="2017-12-13T11:15:37Z" finished-at="2017-12-13T11:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="hf()[pri:0, instance:CommentManagement.CMhuifuTest@61a52fbd]" name="hf" duration-ms="25545" started-at="2017-12-13T11:15:48Z" depends-on-methods="CommentManagement.CMhuifuTest.testBackLogin" finished-at="2017-12-13T11:16:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hf -->
-        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:CommentManagement.CMhuifuTest@73035e27]" name="doAfterMethod" is-config="true" duration-ms="960" started-at="2017-12-13T09:49:01Z" finished-at="2017-12-13T09:49:02Z">
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:CommentManagement.CMhuifuTest@61a52fbd]" name="doAfterMethod" is-config="true" duration-ms="649" started-at="2017-12-13T11:16:14Z" finished-at="2017-12-13T11:16:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doAfterMethod -->
       </class> <!-- CommentManagement.CMhuifuTest -->
+      <class name="OrderManagement.OMxiugaiTest">
+        <test-method status="PASS" signature="addListener(org.testng.ITestContext)[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="addListener" is-config="true" duration-ms="13" started-at="2017-12-13T11:15:29Z" finished-at="2017-12-13T11:15:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@15deb1dc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addListener -->
+        <test-method status="PASS" signature="addListener(org.testng.ITestContext)[pri:0, instance:UserManagement.UMhyxiugaiTest@61443d8f]" name="addListener" is-config="true" duration-ms="1" started-at="2017-12-13T11:15:29Z" finished-at="2017-12-13T11:15:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@15deb1dc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addListener -->
+        <test-method status="PASS" signature="addListener(org.testng.ITestContext)[pri:0, instance:UserManagement.UMygchakanzuTest@445b84c0]" name="addListener" is-config="true" duration-ms="0" started-at="2017-12-13T11:15:29Z" finished-at="2017-12-13T11:15:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@15deb1dc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addListener -->
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="doBeforeMethod" is-config="true" duration-ms="5989" started-at="2017-12-13T11:21:22Z" finished-at="2017-12-13T11:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="testBackLogin" duration-ms="11802" started-at="2017-12-13T11:21:28Z" finished-at="2017-12-13T11:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="xg1()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg1" duration-ms="17022" started-at="2017-12-13T11:21:40Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg1 -->
+        <test-method status="PASS" signature="xg10()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg10" duration-ms="16826" started-at="2017-12-13T11:21:57Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:22:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg10 -->
+        <test-method status="PASS" signature="xg11()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg11" duration-ms="16773" started-at="2017-12-13T11:22:14Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg11 -->
+        <test-method status="PASS" signature="xg12()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg12" duration-ms="17101" started-at="2017-12-13T11:22:30Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:22:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg12 -->
+        <test-method status="PASS" signature="xg13()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg13" duration-ms="16928" started-at="2017-12-13T11:22:47Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg13 -->
+        <test-method status="PASS" signature="xg14()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg14" duration-ms="16815" started-at="2017-12-13T11:23:04Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg14 -->
+        <test-method status="PASS" signature="xg15()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg15" duration-ms="17065" started-at="2017-12-13T11:23:21Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg15 -->
+        <test-method status="PASS" signature="xg16()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg16" duration-ms="17342" started-at="2017-12-13T11:23:38Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg16 -->
+        <test-method status="PASS" signature="xg17()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg17" duration-ms="16956" started-at="2017-12-13T11:23:56Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg17 -->
+        <test-method status="PASS" signature="xg2()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg2" duration-ms="16885" started-at="2017-12-13T11:24:12Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg2 -->
+        <test-method status="PASS" signature="xg3()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg3" duration-ms="16956" started-at="2017-12-13T11:24:29Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg3 -->
+        <test-method status="PASS" signature="xg4()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg4" duration-ms="16823" started-at="2017-12-13T11:24:46Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:25:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg4 -->
+        <test-method status="PASS" signature="xg5()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg5" duration-ms="16987" started-at="2017-12-13T11:25:03Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg5 -->
+        <test-method status="PASS" signature="xg6()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg6" duration-ms="16952" started-at="2017-12-13T11:25:20Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg6 -->
+        <test-method status="PASS" signature="xg7()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg7" duration-ms="16893" started-at="2017-12-13T11:25:37Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg7 -->
+        <test-method status="PASS" signature="xg8()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg8" duration-ms="16785" started-at="2017-12-13T11:25:54Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg8 -->
+        <test-method status="PASS" signature="xg9()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="xg9" duration-ms="16905" started-at="2017-12-13T11:26:11Z" depends-on-methods="OrderManagement.OMxiugaiTest.testBackLogin" finished-at="2017-12-13T11:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg9 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:OrderManagement.OMxiugaiTest@66048bfd]" name="doAfterMethod" is-config="true" duration-ms="634" started-at="2017-12-13T11:26:28Z" finished-at="2017-12-13T11:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- OrderManagement.OMxiugaiTest -->
+      <class name="GoodsManagement.GMaddgoodsTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:GoodsManagement.GMaddgoodsTest@33a10788]" name="doBeforeMethod" is-config="true" duration-ms="5969" started-at="2017-12-13T11:18:34Z" finished-at="2017-12-13T11:18:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:GoodsManagement.GMaddgoodsTest@33a10788]" name="testBackLogin" duration-ms="11759" started-at="2017-12-13T11:18:40Z" finished-at="2017-12-13T11:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="addg()[pri:0, instance:GoodsManagement.GMaddgoodsTest@33a10788]" name="addg" duration-ms="48737" started-at="2017-12-13T11:18:52Z" depends-on-methods="GoodsManagement.GMaddgoodsTest.testBackLogin" finished-at="2017-12-13T11:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addg -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:GoodsManagement.GMaddgoodsTest@33a10788]" name="doAfterMethod" is-config="true" duration-ms="605" started-at="2017-12-13T11:19:40Z" finished-at="2017-12-13T11:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- GoodsManagement.GMaddgoodsTest -->
+      <class name="UserManagement.UMygchakanzuTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:UserManagement.UMygchakanzuTest@445b84c0]" name="doBeforeMethod" is-config="true" duration-ms="6016" started-at="2017-12-13T11:36:57Z" finished-at="2017-12-13T11:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:UserManagement.UMygchakanzuTest@445b84c0]" name="testBackLogin" duration-ms="11564" started-at="2017-12-13T11:37:03Z" finished-at="2017-12-13T11:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="FAIL" signature="ckz()[pri:0, instance:UserManagement.UMygchakanzuTest@445b84c0]" name="ckz" duration-ms="17109" started-at="2017-12-13T11:37:14Z" depends-on-methods="UserManagement.UMygchakanzuTest.testBackLogin" finished-at="2017-12-13T11:37:31Z">
+          <exception class="org.openqa.selenium.InvalidElementStateException">
+            <message>
+              <![CDATA[Element is not enabled
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.0ueBnReixkgl, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8984, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a51274e3-8887-400a-a969-b7e81871e7da]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidElementStateException: Element is not enabled
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.0ueBnReixkgl, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8984, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a51274e3-8887-400a-a969-b7e81871e7da
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at com.webtest.core.WebDriverEngine.click(WebDriverEngine.java:142)
+	at UserManagement.UserManagementyuangong.searchchakanzu(Unknown Source)
+	at UserManagement.UMygchakanzuTest.ckz(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.TestNG.privateMain(TestNG.java:1459)
+	at org.testng.TestNG.main(TestNG.java:1428)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidElementStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ckz -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:UserManagement.UMygchakanzuTest@445b84c0]" name="doAfterMethod" is-config="true" duration-ms="585" started-at="2017-12-13T11:37:31Z" finished-at="2017-12-13T11:37:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- UserManagement.UMygchakanzuTest -->
+      <class name="UserManagement.UMygsearchTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:UserManagement.UMygsearchTest@6ea6d14e]" name="doBeforeMethod" is-config="true" duration-ms="5973" started-at="2017-12-13T11:40:10Z" finished-at="2017-12-13T11:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:UserManagement.UMygsearchTest@6ea6d14e]" name="testBackLogin" duration-ms="11644" started-at="2017-12-13T11:40:16Z" finished-at="2017-12-13T11:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="sear1()[pri:0, instance:UserManagement.UMygsearchTest@6ea6d14e]" name="sear1" duration-ms="16507" started-at="2017-12-13T11:40:28Z" depends-on-methods="UserManagement.UMygsearchTest.testBackLogin" finished-at="2017-12-13T11:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear1 -->
+        <test-method status="PASS" signature="sear2()[pri:0, instance:UserManagement.UMygsearchTest@6ea6d14e]" name="sear2" duration-ms="16423" started-at="2017-12-13T11:40:44Z" depends-on-methods="UserManagement.UMygsearchTest.testBackLogin" finished-at="2017-12-13T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear2 -->
+        <test-method status="PASS" signature="sear3()[pri:0, instance:UserManagement.UMygsearchTest@6ea6d14e]" name="sear3" duration-ms="13482" started-at="2017-12-13T11:41:01Z" depends-on-methods="UserManagement.UMygsearchTest.testBackLogin" finished-at="2017-12-13T11:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear3 -->
+        <test-method status="PASS" signature="sear4()[pri:0, instance:UserManagement.UMygsearchTest@6ea6d14e]" name="sear4" duration-ms="13366" started-at="2017-12-13T11:41:14Z" depends-on-methods="UserManagement.UMygsearchTest.testBackLogin" finished-at="2017-12-13T11:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear4 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:UserManagement.UMygsearchTest@6ea6d14e]" name="doAfterMethod" is-config="true" duration-ms="628" started-at="2017-12-13T11:41:27Z" finished-at="2017-12-13T11:41:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- UserManagement.UMygsearchTest -->
+      <class name="UserManagement.UMygbianjiTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:UserManagement.UMygbianjiTest@2b80d80f]" name="doBeforeMethod" is-config="true" duration-ms="5958" started-at="2017-12-13T11:36:16Z" finished-at="2017-12-13T11:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:UserManagement.UMygbianjiTest@2b80d80f]" name="testBackLogin" duration-ms="11805" started-at="2017-12-13T11:36:22Z" finished-at="2017-12-13T11:36:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="bj()[pri:0, instance:UserManagement.UMygbianjiTest@2b80d80f]" name="bj" duration-ms="22662" started-at="2017-12-13T11:36:33Z" depends-on-methods="UserManagement.UMygbianjiTest.testBackLogin" finished-at="2017-12-13T11:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bj -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:UserManagement.UMygbianjiTest@2b80d80f]" name="doAfterMethod" is-config="true" duration-ms="613" started-at="2017-12-13T11:36:56Z" finished-at="2017-12-13T11:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- UserManagement.UMygbianjiTest -->
+      <class name="UserManagement.UMhyxiugaiTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:UserManagement.UMhyxiugaiTest@61443d8f]" name="doBeforeMethod" is-config="true" duration-ms="5950" started-at="2017-12-13T11:35:35Z" finished-at="2017-12-13T11:35:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:UserManagement.UMhyxiugaiTest@61443d8f]" name="testBackLogin" duration-ms="11735" started-at="2017-12-13T11:35:41Z" finished-at="2017-12-13T11:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="xg()[pri:0, instance:UserManagement.UMhyxiugaiTest@61443d8f]" name="xg" duration-ms="22716" started-at="2017-12-13T11:35:52Z" depends-on-methods="UserManagement.UMhyxiugaiTest.testBackLogin" finished-at="2017-12-13T11:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xg -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:UserManagement.UMhyxiugaiTest@61443d8f]" name="doAfterMethod" is-config="true" duration-ms="598" started-at="2017-12-13T11:36:15Z" finished-at="2017-12-13T11:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- UserManagement.UMhyxiugaiTest -->
+      <class name="CommentManagement.CMsearchTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="doBeforeMethod" is-config="true" duration-ms="6031" started-at="2017-12-13T11:16:15Z" finished-at="2017-12-13T11:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="testBackLogin" duration-ms="11677" started-at="2017-12-13T11:16:21Z" finished-at="2017-12-13T11:16:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="sear1()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="sear1" duration-ms="16486" started-at="2017-12-13T11:16:32Z" depends-on-methods="CommentManagement.CMsearchTest.testBackLogin" finished-at="2017-12-13T11:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear1 -->
+        <test-method status="PASS" signature="sear2()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="sear2" duration-ms="16398" started-at="2017-12-13T11:16:49Z" depends-on-methods="CommentManagement.CMsearchTest.testBackLogin" finished-at="2017-12-13T11:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear2 -->
+        <test-method status="PASS" signature="sear3()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="sear3" duration-ms="16411" started-at="2017-12-13T11:17:05Z" depends-on-methods="CommentManagement.CMsearchTest.testBackLogin" finished-at="2017-12-13T11:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear3 -->
+        <test-method status="PASS" signature="sear4()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="sear4" duration-ms="16418" started-at="2017-12-13T11:17:22Z" depends-on-methods="CommentManagement.CMsearchTest.testBackLogin" finished-at="2017-12-13T11:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear4 -->
+        <test-method status="PASS" signature="sear5()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="sear5" duration-ms="16398" started-at="2017-12-13T11:17:38Z" depends-on-methods="CommentManagement.CMsearchTest.testBackLogin" finished-at="2017-12-13T11:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear5 -->
+        <test-method status="FAIL" signature="sear6()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="sear6" duration-ms="22445" started-at="2017-12-13T11:17:54Z" depends-on-methods="CommentManagement.CMsearchTest.testBackLogin" finished-at="2017-12-13T11:18:17Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertTrue(Assert.java:41)
+	at org.testng.Assert.assertTrue(Assert.java:51)
+	at CommentManagement.CMsearchTest.sear6(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.TestNG.privateMain(TestNG.java:1459)
+	at org.testng.TestNG.main(TestNG.java:1428)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear6 -->
+        <test-method status="FAIL" signature="sear7()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="sear7" duration-ms="16397" started-at="2017-12-13T11:18:17Z" depends-on-methods="CommentManagement.CMsearchTest.testBackLogin" finished-at="2017-12-13T11:18:33Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertTrue(Assert.java:41)
+	at org.testng.Assert.assertTrue(Assert.java:51)
+	at CommentManagement.CMsearchTest.sear7(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.TestNG.privateMain(TestNG.java:1459)
+	at org.testng.TestNG.main(TestNG.java:1428)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sear7 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:CommentManagement.CMsearchTest@63d4e2ba]" name="doAfterMethod" is-config="true" duration-ms="664" started-at="2017-12-13T11:18:33Z" finished-at="2017-12-13T11:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- CommentManagement.CMsearchTest -->
+      <class name="UserManagement.UMygdelTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:UserManagement.UMygdelTest@7907ec20]" name="doBeforeMethod" is-config="true" duration-ms="6010" started-at="2017-12-13T11:37:32Z" finished-at="2017-12-13T11:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="testBackLogin()[pri:0, instance:UserManagement.UMygdelTest@7907ec20]" name="testBackLogin" duration-ms="11628" started-at="2017-12-13T11:37:38Z" finished-at="2017-12-13T11:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackLogin -->
+        <test-method status="PASS" signature="del1()[pri:0, instance:UserManagement.UMygdelTest@7907ec20]" name="del1" duration-ms="18705" started-at="2017-12-13T11:37:50Z" depends-on-methods="UserManagement.UMygdelTest.testBackLogin" finished-at="2017-12-13T11:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- del1 -->
+        <test-method status="FAIL" signature="del2()[pri:0, instance:UserManagement.UMygdelTest@7907ec20]" name="del2" duration-ms="13543" started-at="2017-12-13T11:38:08Z" depends-on-methods="UserManagement.UMygdelTest.testBackLogin" finished-at="2017-12-13T11:38:22Z">
+          <exception class="org.openqa.selenium.NoAlertPresentException">
+            <message>
+              <![CDATA[No modal dialog is currently open
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.LQZRohXNNlXg, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13924, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5cdaee2f-1f91-43ad-9002-8f45518060cc]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoAlertPresentException: No modal dialog is currently open
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-ILMNV9M', ip: '192.168.45.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\acer\AppData\Local\Temp\rust_mozprofile.LQZRohXNNlXg, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13924, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5cdaee2f-1f91-43ad-9002-8f45518060cc
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:643)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:972)
+	at com.webtest.core.WebDriverEngine.getAlert(WebDriverEngine.java:212)
+	at UserManagement.UserManagementyuangong.searchdel(Unknown Source)
+	at UserManagement.UMygdelTest.del2(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.TestNG.privateMain(TestNG.java:1459)
+	at org.testng.TestNG.main(TestNG.java:1428)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoAlertPresentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- del2 -->
+        <test-method status="PASS" signature="doAfterMethod()[pri:0, instance:UserManagement.UMygdelTest@7907ec20]" name="doAfterMethod" is-config="true" duration-ms="591" started-at="2017-12-13T11:38:22Z" finished-at="2017-12-13T11:38:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- UserManagement.UMygdelTest -->
     </test> <!-- t1 -->
   </suite> <!-- s1 -->
 </testng-results>

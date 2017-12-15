@@ -6,6 +6,31 @@
   </listeners>
   <test name="t1(failed)">
     <classes>
+      <class name="UserManagement.UMygchakanzuTest">
+        <methods>
+          <include name="ckz"/>
+          <include name="doAfterMethod"/>
+          <include name="testBackLogin"/>
+          <include name="addListener"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- UserManagement.UMygchakanzuTest -->
+      <class name="OrderManagement.OMsearchTest">
+        <methods>
+          <include name="doAfterMethod"/>
+          <include name="testBackLogin"/>
+          <include name="sear1"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- OrderManagement.OMsearchTest -->
+      <class name="UserManagement.UMygdelTest">
+        <methods>
+          <include name="testBackLogin"/>
+          <include name="doAfterMethod"/>
+          <include name="del2"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- UserManagement.UMygdelTest -->
       <class name="CommentManagement.CMsearchTest">
         <methods>
           <include name="doAfterMethod"/>
